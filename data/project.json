@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "title" :"Dwelling",
+      "image": "https://i.ibb.co/gPX1bnM/img6-70e656b7cad97dd3463c.jpg",
+      "server": "https://github.com/Joyanti-Chowdhury/dwelling-server",
+      "client": "https://github.com/Joyanti-Chowdhury/dwelling",
+      "live": "https://dwelling-olive.vercel.app/",
+      "description":"A team project. A flat booking website",
+      "technology":"Next.js, mongodb",
+      "features": "flat booking"
+    },
+    {
+      "id": 2,
+      "title" :"Clothing store",
+      "image": "https://i.ibb.co/ck3TNNf/banner.jpg",
+      "server": " https://github.com/Joyanti-Chowdhury/clothing-store-server",
+      "client": "https://github.com/Joyanti-Chowdhury/clothing-store-client",
+      "live": "https://clothng-store-client.vercel.app/",
+      "description":"A clothing store website",
+      "technology":"Next.js, mongodb",
+      "features": "Buying clothes"
+     
+    },
+    {
+      "id": 3,
+      "title" :"Disaster Relief ",
+      "image": "https://i.ibb.co/P5pvkC2/banner6.jpg",
+      "server": "https://github.com/Joyanti-Chowdhury/disaster-relief-server",
+      "client": "https://github.com/Joyanti-Chowdhury/disaster-relief-client",
+      "live": "https://iridescent-lily-be83f9.netlify.app",
+      "description":"A Disaster Relief website",
+      "technology":"React, Redux mongodb",
+      "features": "Relief supply"
+    },
+    {
+      "id": 4,
+      "title" :"Ancension Music Institute",
+      "image": "https://i.ibb.co/gTZdqf9/banner1.jpg",
+      "server": "https://github.com/Joyanti-Chowdhury/ascension-music-institute-server",
+      "client": "https://github.com/Joyanti-Chowdhury/ascension-music-institute-client",
+      "live": "https://ascension-music-institute.web.app",
+      "description":"A Music Institute website",
+      "technology":"React.js, Firebase mongodb",
+      "features": "purchase class"
+    },
+    {
+      "id": 5,
+      "title" :"Rhythmic Melody Studio",
+      "image": "https://i.ibb.co/9HMn0CV/banner2.png",
+      "server": "https://github.com/Joyanti-Chowdhury/crescendo-the-musical-toy-server",
+      "client": "https://github.com/Joyanti-Chowdhury/crescendo-the-musical-toy-client",
+      "live": "https://rhythmic-melody-studio.web.app",
+      "description":"A Music website",
+      "technology":"React.js, Firebase mongodb",
+      "features": "purchase class"
+    },
+    {
+      "id": 6,
+      "title" :"Worldwide Famous Chefs",
+      "image": "https://i.ibb.co/k4YDMcd/banner3.jpg",
+      "server": "https://github.com/Joyanti-Chowdhury/worldwide-famous-chefs-receipes-server",
+      "client": "https://github.com/Joyanti-Chowdhury/worldwide-famous-chefs-receipes-client",
+      "live": "https://worldwide-famous-chefs-receipe.web.app",
+      "description":"A Recipe website website",
+      "technology":"React.js, Firebase mongodb",
+      "features": "Can see the famous recipe"
+    },
+    {
+      "id": 7,
+      "title" :"Geometry Genius",
+      "image": "https://i.ibb.co/RN2Py7B/geomatry.png",
+      "server": "https://github.com",
+      "client": "https://github.com/Joyanti-Chowdhury/geomatry-genious-assignment",
+      "live": "https://eloquent-smakager-404665.netlify.app/",
+      "description":"A Geometry Genius website",
+      "technology":"Raw Javascript",
+      "features": "Calculation of Geometry"
+    }
+  ]

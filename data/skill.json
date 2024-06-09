@@ -1,0 +1,78 @@
+[
+    {
+      "title": "Html",
+      "icon": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png",
+      "progress": "90"
+    },
+    {
+      "title": "CSS",
+      "icon": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png",
+      "progress": "87"
+    },
+    {
+      "title": "Bootstrap",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png",
+      "progress": "93"
+    },
+    {
+      "title": "Tailwind CSS",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png",
+      "progress": "96"
+    },
+    {
+      "title": "JavaScript",
+      "icon": "https://www.freepnglogos.com/uploads/javascript/js-circle-black-design-logo-30.png",
+      "progress": "80"
+    },
+    {
+      "title": "React",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png",
+      "progress": "88"
+    },
+    {
+      "title": "Firebase",
+      "icon": "https://user-images.githubusercontent.com/94545831/196925526-b6f89f3e-0abb-4ea2-842b-371487196463.png",
+      "progress": "94"
+    },
+    {
+      "title": "Node",
+      "icon": "https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png",
+      "progress": "78"
+    },
+    {
+      "title": "Express",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png",
+      "progress": "87"
+    },
+    {
+      "title": "MongoDB",
+      "icon": "https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png",
+      "progress": "89"
+    },
+    {
+      "title": "Git & GitHub",
+      "icon": "https://www.freeiconspng.com/thumbs/github-icon/github-icon-9.png",
+      "progress": "93"
+    },
+    {
+      "title": "Netlify",
+      "icon": "https://iconape.com/wp-content/png_logo_vector/netlify-logo.png",
+      "progress": "95"
+    },
+    {
+      "title": "Vercel",
+      "icon": "https://www.freeiconspng.com/uploads/vercel-logo-icon-16.png",
+      "progress": "90"
+    },
+    {
+      "title": "Next.js",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png",
+      "progress": "90"
+    },
+    {
+      "title": "Redux",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png",
+      "progress": "89"
+    }
+
+  ]

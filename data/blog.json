@@ -1,0 +1,73 @@
+[  
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/BKc54LG/Mern.png",
+      "title": "Introduction to MRN Stack",
+      "description": "Learn the basics of MRN stack web development.",
+      "category":"basics of MRN stack "
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/vqx6DjG/js.png",
+      "title": "Javascript",
+      "description": "A step-by-step guide to setting up MRN stack on your machine.",
+      "category":"Setting MRN stack "
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/VNM8GDX/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png",
+      "title": "Building Your First React Application",
+      "description": "Create a simple web application using the MRN stack.",
+      "category":"React"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/mF6pvvB/mongodb.png",
+      "title": "Understanding MongoDB in MRN Stack",
+      "description": "Dive deep into using MongoDB as your database in MRN stack applications.",
+      "category":"basics of MongoDbB"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/brxccZ7/1687786979245.jpg",
+      "title": "Creating RESTful APIs with Node.js",
+      "description": "Learn how to create RESTful APIs using Node.js in MRN stack development.",
+      "category":"basics of Node.js"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/ZMDrVT3/images.jpg",
+      "title": "Next.js Folder Architecture",
+      "description": "Explore the best practices for structuring React components in MRN stack projects.",
+      "category":"Learning Next.js"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/2h8Vgbf/images.png",
+      "title": "State Management with Redux in MRN",
+      "description": "Manage the state of your MRN applications efficiently with Redux.",
+      "category":"Learning Redux"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/G3pXzSh/vercel.png",
+      "title": "Deployment in Vercel",
+      "description": "A comprehensive guide to deploying your MRN stack applications.",
+      "category":"Deployment"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/kJpS2Zc/mysql.png",
+      "title": "Learning Mysql Database",
+      "description": "Tips and tricks for improving the performance of your MRN stack web applications.",
+      "category":"basics of Mysql"
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/YkZwSDZ/postgray.png",
+      "title": "Postgray Applications",
+      "description": "Learn how to effectively test your MRN stack applications for reliability and performance.",
+      "category":"Testing"
+    }
+  ]
+  
